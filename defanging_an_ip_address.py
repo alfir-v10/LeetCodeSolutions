@@ -9,7 +9,7 @@ Example 2:
     Output: "255[.]100[.]50[.]0"
 """
 
-```Python
+```python
 class Solution:
     @staticmethod
     def defang_ip_addr(address: str) -> str:
