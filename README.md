@@ -9,4 +9,10 @@
   * [Reverse String](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/reverse_string.py)
   * [Roman to Integer](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/roman_to_integer.py)
   * [Valid Parentheses](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/valid_parentheses.py)
-
+  * [Defanging an IP Address](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/defanging_an_ip_address.py)
+  * [Kids With the Greatest Number of Candies](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/kids_with_the_greatest_number_of_candies.py)
+  * [Maximum Population Year](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/maximum_population_year.py)
+  * [Number of Good Pairs](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/number_of_good_pairs.py)
+  * [Richest Customer Wealth](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/richest_customer_wealth.py)
+  * [Running Sum of 1d Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/running_sum_of_1d_array.py)
+  * [Shuffle the Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/shuffle_the_array.py)
