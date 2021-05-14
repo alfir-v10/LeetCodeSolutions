@@ -9,8 +9,9 @@ Example 2:
     Output: "255[.]100[.]50[.]0"
 """
 
-
+```python
 class Solution:
     @staticmethod
     def defang_ip_addr(address: str) -> str:
         return address.replace(".", "[.]")
+```
