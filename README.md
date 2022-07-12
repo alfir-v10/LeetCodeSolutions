@@ -17,6 +17,7 @@
   * [Running Sum of 1d Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/running_sum_of_1d_array.py)
   * [Shuffle the Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/shuffle_the_array.py)
   * [Two Sum](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/two_sum.md)
+  * [Palindrome Number](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/palindrome_number.md)
   
  ## Medium
   * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
