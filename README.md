@@ -18,11 +18,14 @@
   * [Shuffle the Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/shuffle_the_array.py)
   * [Two Sum](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/two_sum.md)
   * [Palindrome Number](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/palindrome_number.md)
-  
+  * [Binary Search](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/binary_search.md)
+  * [First Bad Version](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/first_bad_version.md)
+  * [Search Inser Position](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/search_insert_position.md)
+  * [Squares of a Sorted Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/squares_of_a_sorted_array.md)
  ## Medium
   * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
   * [Queries on Number of Points Inside a Circle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/queries_on_number_of_points_inside_a_circle.py)
   * [Subrectangle Queries](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subrectangle_queries.py)
-
+  * [Rotate Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/rotate_array.md)
 ## Hard
  * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
