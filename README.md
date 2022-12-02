@@ -30,11 +30,13 @@
   * [Reverse String](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/reverse_string.md)
   * [Reverse Words in a String III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/reverse_words_in_a_string_iii.md)
   * [Contains Dublicates](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/contains_dublicates.md)
+  * [Middle of the Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/middle_of_the_linked_list.md)
+  * [Reverse Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/reverse_linked_list.md)
 ## Medium
   * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
   * [Queries on Number of Points Inside a Circle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/queries_on_number_of_points_inside_a_circle.py)
   * [Subrectangle Queries](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subrectangle_queries.py)
   * [Rotate Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/rotate_array.md)
-
+  * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
 ## Hard
  * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
