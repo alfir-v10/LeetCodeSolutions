@@ -1,6 +1,18 @@
 # LeetCodeSolutions
 
+## Hard
+ * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
+ 
+## Medium
+  * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
+  * [Queries on Number of Points Inside a Circle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/queries_on_number_of_points_inside_a_circle.py)
+  * [Subrectangle Queries](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subrectangle_queries.py)
+  * [Rotate Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/rotate_array.md)
+  * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
+  
 ## Easy
+  * [Subtract the Product and Sum of Digits of an Integer](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subtract_the_product_and_sum_of_digits_of_an_integer.md)
+  * [Number of 1 Bits](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/number_of_1_bits.md)
   * [Delete Node in a Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/delete_node_in_a_linked_list.py)
   * [Linked List Cycle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle.py)
   * [Majority Element](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/majority_element.py)
@@ -32,11 +44,5 @@
   * [Contains Dublicates](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/contains_dublicates.md)
   * [Middle of the Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/middle_of_the_linked_list.md)
   * [Reverse Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/reverse_linked_list.md)
-## Medium
-  * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
-  * [Queries on Number of Points Inside a Circle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/queries_on_number_of_points_inside_a_circle.py)
-  * [Subrectangle Queries](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subrectangle_queries.py)
-  * [Rotate Array](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/rotate_array.md)
-  * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
-## Hard
- * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
+  * [Count Odd Numbers in an Interval Range](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/count_odd_numbers_in_an_interval_range.md)
+  * [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/average_salary_excluding_the_minimum_and_maximum_salary.md)
