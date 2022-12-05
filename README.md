@@ -4,6 +4,7 @@
  * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
  
 ## Medium
+  * [Design Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/design_linked_list.md)
   * [Longest Substring Without Repeating Characters](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/longest_substring_without_repeating_characters.md)
   * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
   * [Queries on Number of Points Inside a Circle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/queries_on_number_of_points_inside_a_circle.py)
