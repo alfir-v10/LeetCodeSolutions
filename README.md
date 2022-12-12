@@ -4,6 +4,7 @@
  * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
  
 ## Medium
+  * [Linked List Cycle II](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle_ii.md)
   * [Design Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/design_linked_list.md)
   * [Longest Substring Without Repeating Characters](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/longest_substring_without_repeating_characters.md)
   * [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/partitioning_into_minimum_number_of_deci-binary_numbers.py)
@@ -13,6 +14,7 @@
   * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
   
 ## Easy
+  * [Linked List Cycle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle.md)
   * [Ransom Note](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/ransom_note.md)
   * [Number of Steps to Reduce a Number to Zero](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/number_of_steps_to_reduce_a_number_to_zero.md)
   * [Fizz Buzz](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/fizz_buzz.md)
@@ -20,7 +22,6 @@
   * [Subtract the Product and Sum of Digits of an Integer](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/subtract_the_product_and_sum_of_digits_of_an_integer.md)
   * [Number of 1 Bits](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/number_of_1_bits.md)
   * [Delete Node in a Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/delete_node_in_a_linked_list.py)
-  * [Linked List Cycle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle.py)
   * [Majority Element](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/majority_element.py)
   * [Maximum Subarray](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/maximum_subarray.py)
   * [Merge Two Sorted Lists](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/merge_two_sorted_lists.md)
