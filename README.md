@@ -14,6 +14,8 @@
   * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
   
 ## Easy
+  * [Longest Common Prefix](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/longest_common_prefix.md)
+  * [Intersection of Two Linked Lists](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/intersection_of_two_linked_lists.md)
   * [Linked List Cycle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle.md)
   * [Ransom Note](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/ransom_note.md)
   * [Number of Steps to Reduce a Number to Zero](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/number_of_steps_to_reduce_a_number_to_zero.md)
