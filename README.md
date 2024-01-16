@@ -1,9 +1,14 @@
 # LeetCodeSolutions
 
 ## Hard
+  * [Median of Two Sorted Arrays](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/median_of_two_sorted_arrays.md)
  * [Unique Paths III](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/unique_paths_iii.py)
  
 ## Medium
+  * [Minimum Number of Steps to Make Two Strings Anagram](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/minimum_number_of_steps_to_make_two_strings_anagram.md)
+  * [Determine if Two Strings Are Close](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/determine_if_two_strings_are_close.md)
+  * [Find Players With Zero or One Losses](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/find_players_with_zero_or_one_losses.md)
+  * [Insert Delete GetRandom O(1)](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/insert_delete_getrandom_o(1).md)
   * [Linked List Cycle II](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle_ii.md)
   * [Design Linked List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/design_linked_list.md)
   * [Longest Substring Without Repeating Characters](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/longest_substring_without_repeating_characters.md)
@@ -14,6 +19,7 @@
   * [Remove Nth Node From End of List](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/remove_nth_node_from_end_of_list.md)
   
 ## Easy
+  * [Determine if String Halves Are Alike](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/determine_if_string_halves_are_alike.md)
   * [Longest Common Prefix](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/longest_common_prefix.md)
   * [Intersection of Two Linked Lists](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/intersection_of_two_linked_lists.md)
   * [Linked List Cycle](https://github.com/alfir-v10/LeetCodeSolutions/blob/main/linked_list_cycle.md)
